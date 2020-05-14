@@ -1,6 +1,6 @@
 # COVID-19_literature_challenge
 Text embedding for COVID-19 literature
-Data source: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+<br>Data source: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
 <br>This project has 5 sections with code and detailed explanation in 5 jupyter notebooks.
 

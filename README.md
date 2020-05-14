@@ -30,5 +30,5 @@ The massive amount of articles on COVID-19 is overwhelming for researchers and o
    Latent Dirichlet Allocation (LDA)
    Latent Semantic Analysis (LSA)
    BioBERT
-**Note:** For LDA and LSA, a variety of different topic numbers (10,20,30,40,50,100) have been tested.
+<br>**Note:** For LDA and LSA, a variety of different topic numbers (10,20,30,40,50,100) have been tested.
 

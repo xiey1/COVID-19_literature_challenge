@@ -21,14 +21,14 @@ The massive amount of articles on COVID-19 is overwhelming for researchers and o
 
 # Approach:
 ### Text processing methods:
-   WordNetLemmatizer
-   ScispaCy
-   https://allenai.github.io/scispacy/
-   https://spacy.io/usage/spacy-101
+<br>WordNetLemmatizer
+<br>ScispaCy
+<br>https://allenai.github.io/scispacy/
+<br>https://spacy.io/usage/spacy-101
 
 ### Embedding models:
-   Latent Dirichlet Allocation (LDA)
-   Latent Semantic Analysis (LSA)
-   BioBERT
+<br>Latent Dirichlet Allocation (LDA)
+<br>Latent Semantic Analysis (LSA)
+<br>BioBERT
 <br>**Note:** For LDA and LSA, a variety of different topic numbers (10,20,30,40,50,100) have been tested.
 

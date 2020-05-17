@@ -43,3 +43,6 @@ The massive amount of articles on COVID-19 is overwhelming for researchers and o
 ### Exploratory data analysis:
 * Distribution of the number of literature published in each year
 <img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/Publication_by_year.png' width=600px>
+
+* Distribution of wordcount in titles, abstracts and bodytext
+<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/wordcount_distribution.png' width=600px>

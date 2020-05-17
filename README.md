@@ -57,3 +57,10 @@ Two text preprocessing methods have been employed **WordNetLemmatizer** and **Sc
 <br>Cumulative distribution of topic classification accuracy
 <img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LDA_topic_classification_accuracy_cumulative.png' width=800px>
 
+<br>With cosine similarity score as evaluation metric, compare the cosine similarity rank between title, abstract and bodytext for each paper using different LDA methods.
+
+<br>**WordNetLemmatizer** vs **ScispaCy**
+<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LDA_cosine_similarity_rank_method.png' width=800px>
+
+<br>Topic number
+<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LDA_cosine_similarity_rank_topic_number.png' width=800px>

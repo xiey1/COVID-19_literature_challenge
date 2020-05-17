@@ -46,3 +46,11 @@ The massive amount of articles on COVID-19 is overwhelming for researchers and o
 
 * Distribution of wordcount in titles, abstracts and bodytext
 <img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/wordcount_distribution.png' width=600px>
+
+## Part II: Latent Dirichlet Allocation (LDA)
+Two text preprocessing methods have been employed **WordNetLemmatizer** and **ScispaCy**. Both mothods yield comparable wordcount in titles, abstacts and bodytext after preprocessing.
+<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/wordcount_distribution_preprocessing.png' width=600px>
+
+<br>Cumulative distribution of topic classification accuracy
+<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LDA_topic_classification_accuracy_cumulative.png' width=600px>
+

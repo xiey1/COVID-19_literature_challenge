@@ -100,7 +100,7 @@ Two text preprocessing methods have been employed **WordNetLemmatizer** and **Sc
 ## Conclusion
 * 1. Increased topic number has better performance in LDA models.
 * 2. Increased n_components value has better performance in LSA models.
-* 3. There is comparable embedding performance between LSA models built using gensim and sklearn
+* 3. There is comparable embedding performance between LSA models built using gensim and sklearn.
 * 4. LSA model performs better than LDA model.
 * 5. BioBERT performs better than LDA model but not as good as LSA model.
 

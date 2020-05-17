@@ -87,8 +87,19 @@ Two text preprocessing methods have been employed **WordNetLemmatizer** and **Sc
 <br><img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LSA_gensim_sklearn_cosine_similarity_rank.png' width=800px>
 
 ## Part V: BioBERT
+<br>With cosine similarity score as evaluation metric, compare the cosine similarity rank between title, abstract and bodytext for each paper using different BioBERT embedding methods.
+<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/BioBERT_methods.png' width=600px>
 
+## Compare BioBERT, LDA and LSA embedding results
+<br>Compare LDA and LSA embedding performance
+<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LDA_and_LSA.png' width=800px>
 
+<br>Compare BioBERT, LDA and LSA embedding performance
+<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/BioBERT_LDA_LSA.png' width=800px>
 
-
+## Conclusion
+* 1. Increased topic number has better performance in LDA models.
+* 2. Increased n_components value has better performance in LSA models.
+* 3. LSA model performs better than LDA model.
+* 4. BioBERT performs better than LDA model but not as good as LSA model.
 

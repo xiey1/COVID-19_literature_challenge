@@ -63,4 +63,4 @@ Two text preprocessing methods have been employed **WordNetLemmatizer** and **Sc
 <img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LDA_cosine_similarity_rank_method.png' width=800px>
 
 <br>Topic number
-<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LDA_cosine_similarity_rank_topic_number.png' width=800px>
+<br><img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LDA_cosine_similarity_rank_topic_number.png' width=800px>

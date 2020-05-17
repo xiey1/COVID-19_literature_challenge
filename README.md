@@ -83,7 +83,7 @@ Two text preprocessing methods have been employed **WordNetLemmatizer** and **Sc
 <br>Topic number
 <br><img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LSA_sklearn_cosine_similarity_rank_topic_number.png' width=800px>
 
-<br>Compare **Gensim** and **sklearn**
+<br>Compare **Gensim** and **Sklearn**
 <br><img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/LSA_gensim_sklearn_cosine_similarity_rank.png' width=800px>
 
 ## Part V: BioBERT
@@ -100,6 +100,7 @@ Two text preprocessing methods have been employed **WordNetLemmatizer** and **Sc
 ## Conclusion
 * 1. Increased topic number has better performance in LDA models.
 * 2. Increased n_components value has better performance in LSA models.
-* 3. LSA model performs better than LDA model.
-* 4. BioBERT performs better than LDA model but not as good as LSA model.
+* 3. There is comparable embedding performance between LSA models built using gensim and sklearn
+* 4. LSA model performs better than LDA model.
+* 5. BioBERT performs better than LDA model but not as good as LSA model.
 

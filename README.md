@@ -32,3 +32,14 @@ The massive amount of articles on COVID-19 is overwhelming for researchers and o
 3. BioBERT
 <br>**Note:** For LDA and LSA, a variety of different topic numbers (10,20,30,40,50,100) have been tested.
 
+## Part I: Data cleaning and exploratory data analysis
+### Cleaning steps and number of literature in each step:
+<br>Number of literature in 'metadata.csv': 47298
+<br>Number of literature in json files: 52097
+<br>Number of literature shared in 'metadata.csv' and json files: 32417
+<br>Number of literature containing title, abstract and bodytext with Pubmed ID: 21600
+<br>Number of literature in English: 21423
+
+### Exploratory data analysis:
+* Distribution of the number of literature published in each year
+<img src= 'https://github.com/xiey1/COVID-19_literature_challenge/blob/master/images/Publication_by_year.png' width=600px>
